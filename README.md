@@ -1,1 +1,1 @@
-# Image Processing in Pythn
+# Image Processing in Python
